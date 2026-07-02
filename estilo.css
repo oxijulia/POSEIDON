@@ -1,0 +1,145 @@
+.principal {
+   width: 80%;
+   max-width: 1200px;
+   margin: 30px auto;
+   background-color: rgba(107, 188, 255, 0.671);
+   padding: 20px 30px;
+   border-radius: 15px;
+   box-shadow: 0 0 15px;
+   rgba(0,0,0,0,1)
+   border: 2px solid #DD9B9B;
+}
+body {
+   background-color: rgb(56, 98, 114);
+}
+h1
+{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(192, 210, 226);
+    margin-bottom: 10px;
+}
+#menu {
+    text-align: center;
+    margin: 15px 0;
+    font-size: 1.1em;
+}
+#menu a
+{
+ text-align: center;
+  color:aliceblue;
+  text-decoration: none;
+  margin: 0 8px;
+}
+#menu a:hover
+{
+    text-align: center;
+    text-decoration: underline;
+    color:aliceblue;
+}
+.intro
+{
+    background-color: aliceblue;
+    padding: 2px 20px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.intro
+{
+    line-height: 1.5;
+    height: auto;
+    padding: 2px 20px;
+    border-radius:10px ;
+    background-color: rgb(164, 202, 233);
+    width: 60%;
+}
+.contexto
+{
+    background-color: aliceblue;
+    padding: 2px 20px;
+    border-radius: 15px;
+    margin: 10px 0;
+}
+.contexto
+{    
+    line-height: 1.5;
+     height: auto;
+    padding: 2px 20px;
+    border-radius:10px ;
+    background-color: rgb(164, 202, 233);
+    width: 64%;
+}
+h2
+{
+  font-size: 2em;
+  font-style: italic;
+    color: rgb(192, 210, 226);
+    margin-bottom: 10px;
+}
+.cultura
+{
+    background-color: rgb(164, 202, 233);;
+    padding: 2px 20px;
+    border-radius: 15px;
+    margin: 10px 0;
+}
+.cultura
+{
+    line-height: 1.5;
+     height: auto;
+    padding: 2px 20px;
+    border-radius:10px ;
+    background-color: rgb(164, 202, 233);
+    width: 63%;
+}
+.imagem-contexto { 
+    flex: 0 0 300px; 
+    max-width: 300px;
+}
+.imagem-contexto img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    border: 2px solid  rgba(107, 188, 255, 0.671);
+   padding: 20px 30px;
+    box-shadow: 0 4px 12px 
+   rgba(0,0,0,0,2);
+    display: block;}
+
+.imagem-intro
+{
+   width: 100%;
+    height: auto;
+    border-radius: 15px;
+    border: 3px solid  rgba(107, 188, 255, 0.671);
+   padding: 20px 30px;
+    box-shadow: 0 4px 12px 
+   rgba(0,0,0,0,2);
+    display: block;} 
+
+.imagem-intro { 
+    flex: 0 0 300px; 
+    max-width: 400px;
+}
+.imagem-cultura
+{
+   width: 50%;
+    height: auto;
+    border-radius: 12px;
+    border: 2px solid  rgba(107, 188, 255, 0.671);
+   padding: 20px 30px;
+    box-shadow: 0 4px 12px 
+   rgba(0,0,0,0,2);
+    display: block;} 
+
+.imagem-cultura { 
+    flex: 0 0 400px; 
+    max-width: 400px;
+}
+.contato
+{
+   text-align: center;
+    font-size: 3em;
+    color: rgb(192, 210, 226);
+    margin-bottom: 10px; 
+}
